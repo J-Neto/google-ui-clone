@@ -2,7 +2,6 @@
 
 <p align="center">
  <a href="#description">Description</a> •
- <a href="#features">Features</a> • 
  <a href="#requirements">Requirements</a> • 
  <a href="#author">Author</a>
 </p>
