@@ -28,7 +28,7 @@ Description
 
 ## Preview
 <p align="center">
-  <img alt="Preview Google UI Clone" src="https://github.com/J-Neto/ice-cream-parlor-counter/blob/master/demo-gif.gif">
+  <img alt="Preview Google UI Clone" src="https://github.com/J-Neto/google-ui-clone.git">
 </p>
 
 Requirements
@@ -37,7 +37,7 @@ Before starting, you must have installed the following tools on your machine: [G
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/J-Neto/ice-cream-parlor-counter.git
+$ git clone https://github.com/J-Neto/google-ui-clone.git
 
 # Access project's folder in terminal/cmd
 $ cd ice-cream-parlor-counter
