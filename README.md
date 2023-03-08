@@ -28,28 +28,27 @@ Description
 
 ## Preview
 <p align="center">
-  <img alt="Preview Google UI Clone" src="https://github.com/J-Neto/google-ui-clone.git">
+  <img alt="Preview Google UI Clone Desktop" src=".github/ui-desktop.png">
+  <img alt="Preview Google UI Clone Mobile" src=".github/ui-mobile.png">
 </p>
 
 Requirements
 =======================
-Before starting, you must have installed the following tools on your machine: [GIT](https://git-scm.com/downloads), [FLUTTER](https://flutter.dev/docs/get-started/install). Also it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
+Before starting, you must have installed the following tools on your machine: [GIT](https://git-scm.com/downloads). Also it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/) with Live Server Extension.
 
 ```bash
 # Clone this repository
 $ git clone https://github.com/J-Neto/google-ui-clone.git
 
 # Access project's folder in terminal/cmd
-$ cd ice-cream-parlor-counter
+$ cd google-ui-clone
 
 # Open the code in the editor
 $ code .
-or manually open via file explorer by mouse right clicking or by VSCode on the path "File > Open Folder > [Find the folder "ice-cream-parlor-counter"] > Open"
+or manually open via file explorer by mouse right clicking or by VSCode on the path "File > Open Folder > [Find the folder "google-ui-clone"] > Open"
 
-# Run app's build
-$ flutter run
-or pressing the F5 key
-or by VSCode in the path "Run > Start Debugging"
+# Run
+$ right-click on "index.html" and select "open with live server"
 ```
 
 Author
